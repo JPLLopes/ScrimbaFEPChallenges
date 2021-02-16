@@ -25,7 +25,14 @@ body {
     text-align: center;
 }
 
+.sidebar {
+    max-width: 35%;
+    padding: 20px;
+    background-color: #9AE84F;
+}
+
 .sub-heading {
+    margin-top: 0;
     padding: 20px;
     border-bottom: 6px solid #00C58C;
     background-color: #281B2D;
@@ -43,4 +50,12 @@ body {
 
 .image {
     max-width: 300px;
+}
+
+.link:hover {
+    color: #9138B7
+}
+
+.info-source {
+    font-size: 12px;
 }
