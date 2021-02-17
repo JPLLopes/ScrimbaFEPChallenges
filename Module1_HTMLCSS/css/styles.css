@@ -29,6 +29,7 @@ body {
     max-width: 35%;
     padding: 20px;
     background-color: #9AE84F;
+    box-shadow: -2px -2px 15px #e3e3e3, 2px 2px 15px #e3e3e3;
 }
 
 .sub-heading {
